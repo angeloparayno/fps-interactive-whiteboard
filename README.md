@@ -8,4 +8,4 @@ Repository Contents:
 ---
 Still work on progres...
 
-[sample](FPS Interactive Whiteboard/FPS Interactive Whiteboard/main.cpp)
+[sample](FPS Interactive Whiteboard/FPS Interactive Whiteboard/main.cpp](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/FPS%20Interactive%20Whiteboard/FPS%20Interactive%20Whiteboard/main.cpp)
