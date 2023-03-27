@@ -1,6 +1,6 @@
 # FPS-Interactive-Whiteboard
 #### FPS was named after the  proponent's last name: Fajardo, Parayno, Sy (FPS)
-# Sub-Project could be found here -> [RGB LED Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
+#### Sub-Project could be found here -> [RGB LED Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
 ---
 ## Repository Contents
 * FPS Interactive Whiteboard Project Folder
