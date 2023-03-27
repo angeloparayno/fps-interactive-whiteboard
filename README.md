@@ -1,12 +1,14 @@
 # FPS-Interactive-Whiteboard
 * **FPS** was named after the  proponent's last name: *Fajardo*, *Parayno*, *Sy* (FPS)
 * Sub-Project could be found here -> [RGB LED Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
+
 ---
 ## Repository Contents
 * FPS Interactive Whiteboard Project Folder
   * Source code: [./FPS Interactive Whiteboard/FPS Interactive Whiteboard/**main.cpp**](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/FPS%20Interactive%20Whiteboard/FPS%20Interactive%20Whiteboard/main.cpp)
 * [FPS Interactive Whiteboard Thesis Paper](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/FPS%20Interactive%20Whiteboard%20(Thesis%20Paper).pdf)
 * FPS Interactive Whiteboard Defense Slide Presentation
+
 ---
 ## Abstract
 
@@ -17,3 +19,7 @@
 &emsp;The proposed system will benefit schools and other learning institutions that can incorporate interactive applications such as drawing applications, video applications and even educational games with their curriculum. The system can allow students a more hands on experience with certain applications as they can interact with those applications using the movement of their hands, this kind of interaction is also not limited with only one user but instead has a maximum capacity of 2 users.
 
 &emsp;The system is recommended to be used in an open space, a typical classroom setting or as specified in the latter parts of the documentation.
+
+---
+## Diagrams
+![](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/Diagrams%20(FPS)/Screen%20Shot%202023-03-27%20at%203.06.38%20PM.png)
