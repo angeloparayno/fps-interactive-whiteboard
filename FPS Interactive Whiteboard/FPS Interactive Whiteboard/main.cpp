@@ -527,16 +527,16 @@ void promptMenu()
 			case 'r':
 			case 'R':
 				rHand1 = true;
-				cout																			<< endl;
+				cout										<< endl;
 				cout << "RIGHT HAND IS CHOSEN FOR HAND MOVEMENT PREFERENCE FOR THE FIRST USER"	<< endl;
-				cout																			<< endl;
+				cout										<< endl;
 				break;
 			case 'l':
 			case 'L':
 				rHand1 = false;
-				cout																			<< endl;
+				cout										<< endl;
 				cout << "LEFT HAND IS CHOSEN FOR HAND MOVEMENT PREFERENCE FOR THE FIRST USER"	<< endl;
-				cout																			<< endl;
+				cout										<< endl;
 				break;
 			default:
 				cout << "-> Invalid Input, input either [R] for Right and [L] for Left: ";
@@ -545,8 +545,8 @@ void promptMenu()
 		}
 	}
 	while(cHandPreference1 == 'x');
-	cout																<< endl;
-	cout << "STEP 2 OF 4: SELECT SECOND USER HAND MOVEMENT PREREFENCE"	<< endl;
+	cout													<< endl;
+	cout << "STEP 2 OF 4: SELECT SECOND USER HAND MOVEMENT PREREFENCE"					<< endl;
 	cout << "-> Input either [R] for Right and [L] for Left, then press the [Enter] key: ";
 	do
 	{
@@ -556,16 +556,16 @@ void promptMenu()
 		case 'r':
 		case 'R':
 			rHand2 = true;
-			cout																			<< endl;
-			cout << "RIGHT HAND IS CHOSEN FOR HAND MOVEMENT PREFERENCE FOR THE SECOND USER" << endl;
-			cout																			<< endl;
+			cout											<< endl;
+			cout << "RIGHT HAND IS CHOSEN FOR HAND MOVEMENT PREFERENCE FOR THE SECOND USER" 	<< endl;
+			cout											<< endl;
 			break;
 		case 'l':
 		case 'L':
 			rHand2 = false;
-			cout																			<< endl;
-			cout << "LEFT HAND IS CHOSEN FOR HAND MOVEMENT PREFERENCE FOR THE SECOND USER"	<< endl;
-			cout																			<< endl;
+			cout											<< endl;
+			cout << "LEFT HAND IS CHOSEN FOR HAND MOVEMENT PREFERENCE FOR THE SECOND USER"		<< endl;
+			cout											<< endl;
 			break;
 		default:
 			cHandPreference2 = 'x';
@@ -576,29 +576,29 @@ void promptMenu()
 	while(cHandPreference2 == 'x');
 	Sleep(500);
 	cout << endl;
-	cout << "STEP 3 OF 4: READ REMINDERS"																														<< endl;
-	cout << "-> Make sure that you are at least a meter away from the Kinect Sensor."		<< endl;
-	cout << "-> For accurate cursor movement, raise your hand on the shoulder level."		<< endl;
+	cout << "STEP 3 OF 4: READ REMINDERS"							<< endl;
+	cout << "-> Make sure that you are at least a meter away from the Kinect Sensor."	<< endl;
+	cout << "-> For accurate cursor movement, raise your hand on the shoulder level."	<< endl;
 	cout << "-> Initially the left cursor is for the first user, and the right cursor is"	<< endl;
-	cout << "   for the second user"														<< endl;
+	cout << "   for the second user"							<< endl;
 	cout << endl;
-	cout << "LED Pen Buttons"																<< endl;
-	cout << "-> Use the LED pens to change the cursor behavior"								<< endl;
-	cout << "   First  User (RGB LED Pen)       Second User (CYM LED Pen)"					<< endl;
-	cout << "   RED   - Click                   Yellow  - Click"							<< endl;
-	cout <<	"   Blue  - Drag                    Magenta - Drag"								<< endl;
-	cout <<	"   Green - Move (Default)          Cyan    - Move (Default)"					<< endl;
+	cout << "LED Pen Buttons"								<< endl;
+	cout << "-> Use the LED pens to change the cursor behavior"				<< endl;
+	cout << "   First  User (RGB LED Pen)       Second User (CYM LED Pen)"			<< endl;
+	cout << "   RED   - Click                   Yellow  - Click"				<< endl;
+	cout <<	"   Blue  - Drag                    Magenta - Drag"				<< endl;
+	cout <<	"   Green - Move (Default)          Cyan    - Move (Default)"			<< endl;
 	cout << "-> Press the [MOVE] button on the LED pen to provide label on which cursor is" << endl;
-	cout << "   for the first or second user cursor"										<< endl;
+	cout << "   for the first or second user cursor"					<< endl;
 	cout << endl;
-	cout << "Keyboard Help Keys"															<< endl;
+	cout << "Keyboard Help Keys"								<< endl;
 	cout << "-> In case cursor movement is moving incorrectly, tracked  user/s must raise"	<< endl;
-	cout <<	"   their hand on the shoulder level and press:"								<< endl;
-	cout << "   [1] to reset first user cursor position"									<< endl;
-	cout <<	"   [2] to reset second user cursor position"									<< endl;
-	cout << "-> Press [ESC] to exit"														<< endl; 
+	cout <<	"   their hand on the shoulder level and press:"				<< endl;
+	cout << "   [1] to reset first user cursor position"					<< endl;
+	cout <<	"   [2] to reset second user cursor position"					<< endl;
+	cout << "-> Press [ESC] to exit"							<< endl; 
 	cout <<	endl;
-	cout << "         Press [SPACE]  to continue"										    << endl;
+	cout << "         Press [SPACE]  to continue"						<< endl;
 	cout << "         Press   [P]    to continue on MS Paint w/ assitive graphics & border" << endl;
 	while(1)
 	{
@@ -613,8 +613,8 @@ void promptMenu()
 			break;
 		}
 	}
-	cout																			<< endl;
-	cout << "STEP 4 OF 4: YOU ARE NOW READY TO USE THE SYSTEM!"						<< endl;
+	cout											<< endl;
+	cout << "STEP 4 OF 4: YOU ARE NOW READY TO USE THE SYSTEM!"				<< endl;
 }
 #pragma endregion 
 
