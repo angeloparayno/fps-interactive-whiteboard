@@ -29,7 +29,7 @@
 ![](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/Diagrams%20(FPS)/Screen%20Shot%202023-03-27%20at%203.06.06%20PM.png)
 
 ---
-## Tools Used:
+## Tools, Specifications and Requirements
 * IDE : Visual Studio 2010 Express C++
 * OS : Windows 8
 * Programming language: C++
