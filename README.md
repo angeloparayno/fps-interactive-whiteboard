@@ -36,7 +36,7 @@
 * IDE : Visual Studio 2010 Express C++
 * OS : Windows 8
 * Programming language: C++
-* Open SouRce Libraries 
+* Open Source Libraries 
   * Open CV 2.4.11
   * OpenNi 2.2
   * Nite 2.2
@@ -51,4 +51,10 @@
   * LCD Projector
  
 ---
+
 Still a working progress..
+
+
+| a| a|
+| sdasd | ASDSad|
+
