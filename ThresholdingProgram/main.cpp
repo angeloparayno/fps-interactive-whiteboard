@@ -26,7 +26,7 @@ int main()
 	Mat imgThresholded;
 
 	//HSV TRACKBAR
-	namedWindow("Control",CV_WINDOW_AUTOSIZE);			//create a window called "Control"
+	namedWindow("Control",CV_WINDOW_AUTOSIZE);		//create a window called "Control"
 	int iLowH = 0;
 	int iHighH = 179;
 
@@ -72,7 +72,7 @@ int main()
 		//erode(imgThresholded, imgThresholded, getStructuringElement(MORPH_ELLIPSE, Size(5, 5)) );
 
 		imshow("Thresholded Image", imgThresholded);	//show the thresholded image
-		imshow("Original", imgKinect);					//show the original image
+		imshow("Original", imgKinect);			//show the original image
 	   
 		ch = cv::waitKey(1);
 	}
