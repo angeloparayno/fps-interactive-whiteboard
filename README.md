@@ -10,7 +10,8 @@
 * [FPS Interactive Whiteboard Thesis Paper](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/FPS%20Interactive%20Whiteboard%20(Thesis%20Paper).pdf)
 * FPS Interactive Whiteboard Defense Slide Presentation
 * Thresholding Program folder
-  * Additional program used for calibrating the color for precise detection
+  * Additional program used getting the correct values of the color source
+  * Source code : [./ThresholdingProgram/main.cpp](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/ThresholdingProgram/main.cpp)
 ---
 ## Abstract
 
@@ -48,4 +49,6 @@
   * Xbox 360 Kinect
   * Xbox 360 AC Adapter/Power Supply
   * LCD Projector
-
+ 
+---
+Still a working progress..
