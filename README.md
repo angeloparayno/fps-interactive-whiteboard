@@ -21,8 +21,29 @@
 &emsp;The system is recommended to be used in an open space, a typical classroom setting or as specified in the latter parts of the documentation.
 
 ---
-## Diagram
+## Diagrams
+
+### Overview
 ![](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/Diagrams%20(FPS)/Screen%20Shot%202023-03-27%20at%203.06.38%20PM.png)
+### Use Case Diagram
+![](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/Diagrams%20(FPS)/Screen%20Shot%202023-03-27%20at%203.06.06%20PM.png)
 
 ---
-Work in progress..
+## Tools Used:
+* IDE : Visual Studio 2010 Express C++
+* OS : Windows 8
+* Programming language: C++
+* Open SouRce Libraries 
+  * Open CV 2.4.11
+  * OpenNi 2.2
+  * Nite 2.2
+* Windows Library: 
+  * Touch injection API on windows 8
+  * WM_Paint Message
+* Drivers Used:
+  * Kinect SDK 1.8 (Official Microsoft SDK)
+* Hardware:
+  * Xbox 360 Kinect
+  * Xbox 360 AC Adapter/Power Supply
+  * LCD Projector
+
