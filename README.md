@@ -13,7 +13,7 @@
   * Additional program used calibrating the correct values of a color
   * Source code : [./ThresholdingProgram/main.cpp](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/ThresholdingProgram/main.cpp)
 ---
-## Abstract (2016)
+## Abstract
 
 &emsp; The FPS Interactive White-Board is a system created in C++ using the Kinect motion capture sensor to allow users interaction with a computer environment using the their hand movements as the input for cursor manipulation and the LED pens as the input for action identification. 
 
