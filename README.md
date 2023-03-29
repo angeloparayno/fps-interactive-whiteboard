@@ -56,4 +56,4 @@
   * LCD Projector
  
 ---
-Still a working progress..
+Still a work in progress..
