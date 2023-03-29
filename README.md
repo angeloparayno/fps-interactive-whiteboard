@@ -26,7 +26,7 @@
 ---
 ## Developer's Inside Context (2023)
 
-(Still a working progress..)
+(work in progress..)
 
 ---
 ## Diagrams
@@ -56,4 +56,5 @@
   * LCD Projector
  
 ---
-Still a work in progress..
+
+work in progress..
