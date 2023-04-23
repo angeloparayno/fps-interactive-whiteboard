@@ -11,7 +11,7 @@
 * FPS Interactive Whiteboard Defense Slide Presentation
 * Thresholding Program folder
   * Additional program used calibrating the correct values of a color
-  * Source code : [./ThresholdingProgram/main.cpp](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/ThresholdingProgram/main.cpp)
+  * Source code : ./ThresholdingProgram/main.cpp
 ---
 ## Abstract
 
