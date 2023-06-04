@@ -55,6 +55,3 @@
   * Xbox 360 AC Adapter/Power Supply
   * LCD Projector
  
----
-
-work in progress..
