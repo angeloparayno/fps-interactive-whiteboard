@@ -6,9 +6,9 @@
 ---
 ## Repository Contents
 * FPS Interactive Whiteboard Project Folder
-  * Source code: [./FPS Interactive Whiteboard/FPS Interactive Whiteboard/**main.cpp**](FPS Interactive Whiteboard/FPS Interactive Whiteboard/main.cpp)
-* [FPS Interactive Whiteboard Thesis Paper](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/FPS%20Interactive%20Whiteboard%20(Thesis%20Paper).pdf)
-* FPS Interactive Whiteboard Defense Slide Presentation
+  * Source code: [./FPS Interactive Whiteboard/FPS Interactive Whiteboard/**main.cpp**](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/FPS%20Interactive%20Whiteboard/FPS%20Interactive%20Whiteboard/main.cpp)
+* [FPS Interactive Whiteboard Thesis Paper](FPS-Interactive-Whiteboard-Thesis-Paper.pdf)
+* [FPS Interactive Whiteboard Defense Slide Presentation](FPS-Defense-Slide-Presentation.pdf)
 * Thresholding Program folder
   * Additional program used calibrating the correct values of a color
   * Source code : [./ThresholdingProgram/main.cpp](ThresholdingProgram/main.cpp)
