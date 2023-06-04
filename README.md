@@ -2,7 +2,7 @@
 ### Thesis / Capstone Project (2016) - University of Santo Tomas
 #### Led a team of 4, as the main developer of an interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking
 * FPS Interactive Whiteboard was named after the  proponent's last name: *Fajardo*, *Parayno*, *Sy* (FPS)
-* Sub-Project for this could be found here -> [RGB LED Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
+* Sub-Project for this could be found here -> [RGB LED Flashlights](angeloparayno/RGB-LED-Flashlights)
 ---
 ## Repository Contents
 * FPS Interactive Whiteboard Project Folder
@@ -32,9 +32,9 @@
 ## Diagrams
 
 ### Overview
-![](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/assets/Screen%20Shot%202023-03-27%20at%203.06.38%20PM.png)
+![](assets/figure-3-5-overview.png)
 ### Use Case Diagram
-![](https://github.com/angeloparayno/FPS-Interactive-Whiteboard/blob/main/assets/Screen%20Shot%202023-03-27%20at%203.06.06%20PM.png)
+![](assets/figure-4-1-use-case-diagram.png)
 
 ---
 ## Tools, Specifications and Requirements
